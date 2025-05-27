@@ -12,7 +12,7 @@ We have created this GitHub organization to publish the source code of our plugi
 ## Links
 
 - [![SpigotMC Profile](https://img.shields.io/badge/SpigotMC-Profile-yellow)](https://www.spigotmc.org/members/spyg-studios.2185876/)
-- [![BuiltByBit Profile](https://img.shields.io/badge/BuiltByBit-Profile-darkcyan)](https://builtbybit.com/members/spyg-studios.550589/)
+- [![Modrinth Profile](https://modrinth.com/organization/spygstudios)
 - [![Discord Support Server](https://img.shields.io/discord/123456789012345678?label=Discord%20Support%20Server)](https://dc.spygstudios.com)
 - [![Plugin Docs / Wiki](https://img.shields.io/badge/Plugin%20Docs-Wiki-purple)](https://spygstudios.com/)
 
